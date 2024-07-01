@@ -25,6 +25,6 @@ DATO has been made for visualization of data related to Olympics as per users va
 -------------------------------------------------------------------------------------------------------------
 
 -Haryaksh                                    
-Interested to collaborate and experiment.
+Always happy to collaborate and experiment.
 
 
