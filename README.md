@@ -22,6 +22,7 @@ Curiosity and pro-active interests in the programming language, functions, exper
 ## Purpose
 DATO has been made for visualization of data related to Olympics as per users various needs, for editing of data if required, for analysing and displaying the data in an efficient manner and to encourage derivatives in the same direction.
 
+-------------------------------------------------------------------------------------------------------------
 
 -Haryaksh                                    
 Interested to collaborate and experiment.
