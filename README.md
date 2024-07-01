@@ -1,5 +1,5 @@
 ## Structure
-The main structure is menu-driven program capable of:                                                                                                                                                    -   
+The main structure is menu-driven program capable of:
 * Data visualisation through graphs 
 * Manipulation (inserting a record, deleting a record, dropping a column, etc.)
 * Displaying (the top records, the bottom records, particular column(s), particular row(s))
