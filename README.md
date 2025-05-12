@@ -1,4 +1,4 @@
-### This is my first Python project that I made in my 12th standard as Informatics Practices (subject) Project
+### This is my Python project that I made in my 12th standard as Informatics Practices (subject) Project
 ## Structure
 The main structure is menu-driven program capable of:
 * Data visualisation through graphs 
