@@ -1,3 +1,4 @@
+### This is my first Python project that I made as Informatics Practices (subject) Project
 ## Structure
 The main structure is menu-driven program capable of:
 * Data visualisation through graphs 
